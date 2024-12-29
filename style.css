@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.p1{
+    padding-left: 29%;
+}
+#lastestcollectionmove{
+    position: relative;
+    bottom: 70px;
+}
+
+.nav-link:hover{
+   transform: scale(1.1);
+  text-shadow: 1px 1px 1px;
+    
+}
+.img1{
+    cursor: pointer;
+}
+.img1:hover{
+    transform: scale(1.05);
+    box-shadow: 1px ;
+
+
+}
+p{
+    cursor: pointer;
+}
+.essential,.santa{
+    cursor: pointer;
+}
+.recommendation1:hover{
+    transform: scale(1.05);
+}
+.recommendation1{
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+button{
+   background: linear-gradient(to right,#F2CFDB, #FFFFFF);
+}
+
+.recommendation2{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;
+    cursor: pointer;
+}
+.recommendation2:hover{
+    transform: scale(1.05);
+
+}
+.gold1:hover{
+    transform: scale(1.05);
+}
+.gold{
+    cursor: pointer;
+}
+
+.service1{
+    border:  solid  2px ;
+    
+}
+a{
+    text-decoration: none;
+}
